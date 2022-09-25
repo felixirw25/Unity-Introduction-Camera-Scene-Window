@@ -38,5 +38,34 @@
 
 ***Console Window*** adalah tampilan jendela yang memberikan pesan peringatan, error, dan semua pesan dari editor. Berbeda dengan console lain, console window di Unity tidak dapat membaca input (hanya menampilkan output). Hanya digunakan pada saat pengembangan. Opsi toolbar yang ada, seperti clear, collapse, dan error pause.
 
+<h2>Project</h2>
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192146663-a9743f20-3f89-430a-9b40-891a8556fa74.png"> </p>
+
+***Project*** adalah tempat penyimpanan semua file dari sebuah projek di Unity. Pada file manager di desktop, folder projek dikenal dengan nama "Assets". 
+
+<h2>Hello World (Scripting)</h2>
+
+<p align="center"><img width="100%" src=""> </p>
+
+***Scripting*** adalah unsur penting dalam Unity. Scripting berguna untuk menanggapi masukan dari pemain dan mengatur agar peristiwa dalam gameplay terjadi saat seharusnya. Selain itu, skrip dapat digunakan untuk membuat efek grafis, mengontrol perilaku fisik objek, atau bahkan menerapkan sistem AI khusus untuk karakter dalam game. 
+
+Tahapan untuk dapat melakukan scripting ("Hello World") di Unity:
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192147302-4cc6f3ab-6f29-4553-a7ec-ec61122952d2.png"> </p> 
+
+- Ke Window > Package Manager > Packages (Unity Registry)
+- Pastikan Visual Scripting, VSC Code Editor, dan Visual Studio Editor telah terinstall
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192147573-e0ee1f61-a743-4bb9-9ff1-2e790fd75401.png"> </p>
+
+- Ke Edit > Preferences > External Tools > External Script Editor > Ubah menjadi Visual Studio Code
+- Lalu, Project > Assets > Create > Folder (biar rapi) > C# Scripts
+
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192148478-149c90f9-6b2d-4c32-8b4f-3ff177f5c96a.png"> </p>
+
+- Unity > Hierarchy > Create Empty > Add Component > Script "Hello World"
+
+Output:
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192148884-5dc3d474-07cb-4c21-9e6b-4e0e1eae9aab.png"> </p>
+
 <br/>
 **Copyright by Felix Irwanto - 2022**
