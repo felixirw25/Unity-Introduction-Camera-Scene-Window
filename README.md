@@ -18,7 +18,7 @@
 
 ***Camera*** adalah semua hal yang ada pada game dilihat dari sudut pandang arah mata pengguna yang menangkap semua gambaran yang mengarah kepadanya. Terdapat beberapa property camera seperti gambar berikut: 
 
-<p align="center"><img width="50%" src=""> </p>
+<p align="center"><img width="50%" src="https://user-images.githubusercontent.com/113922230/192149445-adcfd0fa-ac84-4d33-9489-2427e8cca8b5.png"> </p>
 
 <h2>Scene Window</h2>
 
