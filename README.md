@@ -34,7 +34,7 @@
 
 <h2>Console Window</h2>
 
-<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192146424-fd04465d-ba1a-4c6d-b7f8-cabe5953a542.png"> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192148963-552c2b6a-7aa3-4b78-8028-614b80cbf7e1.png"> </p>
 
 ***Console Window*** adalah tampilan jendela yang memberikan pesan peringatan, error, dan semua pesan dari editor. Berbeda dengan console lain, console window di Unity tidak dapat membaca input (hanya menampilkan output). Hanya digunakan pada saat pengembangan. Opsi toolbar yang ada, seperti clear, collapse, dan error pause.
 
