@@ -28,15 +28,15 @@
 
 <h2>Hierarchy Window</h2>
 
-<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192146061-118a9291-db2d-45ac-bfaa-00bdcdfd3ecc.png"> </p>
+<p align="center"><img width="50%" src="https://user-images.githubusercontent.com/113922230/192146061-118a9291-db2d-45ac-bfaa-00bdcdfd3ecc.png"> </p>
 
-***Hierarchy Window*** adalah otak dari semua objek. Pada default, terdapat Main Camera dan Directional Light. 
+***Hierarchy Window*** adalah otak dari semua objek. Pada default, terdapat Main Camera dan Directional Light. Hal yang dapat dilakukan seperti membuat, menghapus, menduplikat gameobject, mengatur keterlihatan dari gameobject, merapikan, menyusun, dam mengelompokkan gameobject.
 
 <h2>Console Window</h2>
 
-<p align="center"><img width="100%" src=""> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192146424-fd04465d-ba1a-4c6d-b7f8-cabe5953a542.png"> </p>
 
-***Console Window*** adalah .
+***Console Window*** adalah tampilan jendela yang memberikan pesan peringatan, error, dan semua pesan dari editor. Berbeda dengan console lain, console window di Unity tidak dapat membaca input (hanya menampilkan output). Hanya digunakan pada saat pengembangan. Opsi toolbar yang ada, seperti clear, collapse, dan error pause.
 
 <br/>
 **Copyright by Felix Irwanto - 2022**
