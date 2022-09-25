@@ -14,21 +14,23 @@
 
 <h2>Camera</h2>
 
-<p align="center"><img width="100%" src=""> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192145244-1b3c5ac8-3642-42b6-8d14-e229071d1fb2.png"> </p>
 
-***Camera*** adalah .
+***Camera*** adalah semua hal yang ada pada game dilihat dari sudut pandang arah mata pengguna yang menangkap semua gambaran yang mengarah kepadanya. Terdapat beberapa property camera seperti gambar berikut: 
+
+<p align="center"><img width="50%" src="https://user-images.githubusercontent.com/113922230/192145188-31dcd0ab-75ea-4995-a307-384abc0b4eeb.png"> </p>
 
 <h2>Scene Window</h2>
 
 <p align="center"><img width="100%" src=""> </p>
 
-***Scene Window*** adalah.
+***Scene Window*** adalah tempat letak semua tampilan game. 
 
 <h2>Hierarchy Window</h2>
 
 <p align="center"><img width="100%" src=""> </p>
 
-***Hierarchy Window*** adalah .
+***Hierarchy Window*** adalah otak dari semua objek. Pada default, terdapat Main Camera dan Directional Light. 
 
 <h2>Console Window</h2>
 
