@@ -63,7 +63,29 @@ Tahapan untuk dapat melakukan scripting ("Hello World") di Unity:
 <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192148478-149c90f9-6b2d-4c32-8b4f-3ff177f5c96a.png"> </p>
 
 - Unity > Hierarchy > Create Empty > Add Component > Script "Hello World"
+Source Code:
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class HelloWorld : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        Debug.Log("Hello World");
+        Debug.LogWarning("Log");
+        Debug.LogError("Log");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
+```
 Output:
 <p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192148884-5dc3d474-07cb-4c21-9e6b-4e0e1eae9aab.png"> </p>
 
