@@ -46,7 +46,7 @@
 
 <h2>Hello World (Scripting)</h2>
 
-<p align="center"><img width="100%" src=""> </p>
+<p align="center"><img width="100%" src="https://user-images.githubusercontent.com/113922230/192257437-6d53ec5f-9f00-46b9-a8dc-5e8db7d8635e.png"> </p>
 
 ***Scripting*** adalah unsur penting dalam Unity. Scripting berguna untuk menanggapi masukan dari pemain dan mengatur agar peristiwa dalam gameplay terjadi saat seharusnya. Selain itu, skrip dapat digunakan untuk membuat efek grafis, mengontrol perilaku fisik objek, atau bahkan menerapkan sistem AI khusus untuk karakter dalam game. 
 
@@ -71,6 +71,9 @@ using UnityEngine;
 
 public class HelloWorld : MonoBehaviour
 {
+    private void Awake() {
+        Debug.Log("Sebelum Hello World");
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -82,7 +85,7 @@ public class HelloWorld : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // Debug.Log("Update");
     }
 }
 ```
